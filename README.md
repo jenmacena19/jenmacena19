@@ -6,8 +6,9 @@ Pesquisadora e Desenvolderora
 
 <!-- Ícones de contato -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/jeniffer-macena/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://www.behance.net/jeniffemacena)
-[![Twitter](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=twitter&logoColor=white)](https://www.instagram.com/jenmacena/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeniffermacena)
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+
 
 <!-- Breve descrição sobre você -->
 Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enfrentar desafios de design e programação. Meu objetivo é contribuir para projetos significativos que tenham impacto no mundo. Sou graduada em Licenciatura em Computação pela Universidade do Estado do Amazonas (UEA).
@@ -15,11 +16,12 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Habilidades técnicas -->
 ## Habilidades Técnicas
 
+- Design: Figma, Adobe Illustrator e Photoshop
 - Linguagens de programação: Python, JavaScript, C#, C
 - Frameworks: React.js, Express.js
 - Banco de dados: PostgreSQL, MySQL
 - Ferramentas de controle de versão: Git, GitHub
-- Design: Figma, Adobe Illustrator e Photoshop
+- Games: Unity
 
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
