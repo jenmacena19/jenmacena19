@@ -42,7 +42,7 @@ Pesquisadora e Desenvolderora | Front-end | Unity
 <a href="https://github.com/jenmacena19/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jenmacena19" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/jenmacena19/convoychat">
   <img height=200 align="center" src="[![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=compact&theme=omni](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni&langs_count=6&card_width=445)](https://github.com/jenmacena19)" />
 </a>
 
