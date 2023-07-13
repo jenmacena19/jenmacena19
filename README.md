@@ -40,10 +40,6 @@ Olá! Eu sou um desenvolvedor(a) apaixonado(a) por criar soluções inovadoras e
 - [Projeto de Código Aberto 1](https://github.com/projeto1) - Contribuição na resolução de problemas e melhoria de recursos.
 - [Projeto de Código Aberto 2](https://github.com/projeto2) - Contribuição na documentação e revisão de código.
 
-<!-- Blog -->
-## Blog
-
-Você também pode conferir alguns dos meus artigos e tutoriais técnicos no meu [blog](https://seublog.com).
 
 <!-- Fim -->
 
