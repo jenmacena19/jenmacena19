@@ -39,7 +39,7 @@ Pesquisadora e Desenvolderora | Front-end | Unity
 [![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
 ![Jeniffer GitHub stats](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jenmacena19/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jenmacena19" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
