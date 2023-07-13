@@ -16,7 +16,7 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 ## Habilidades Técnicas
 
 - Linguagens de programação: Python, JavaScript, C#, C
-- Frameworks: Django, React.js
+- Frameworks: React.js, Express.js
 - Banco de dados: PostgreSQL, MySQL
 - Ferramentas de controle de versão: Git, GitHub
 - Design: Figma, Adobe Illustrator e Photoshop
@@ -24,10 +24,8 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=merko)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)
 
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=merko)
 
 <!-- Contagem de Visitantes -->
 ## Contagem de Visitantes
@@ -37,24 +35,16 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Contribuições no GitHub -->
 ## Contribuições no GitHub
 
-[![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=dark)](https://github.com/jenmacena19)
+[![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=omni)](https://github.com/jenmacena19)
 
 <!-- Linguagens mais utilizadas -->
 ## Linguagens mais Utilizadas
 
-[![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=compact&theme=merko)](https://github.com/jenmacena19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=donut-vertical)](https://github.com/jenmacena19/github-readme-stats)
 ## Status de Build
 <!-- Status de Build 
-
-
 [![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=transparent)
-
-<!-- Cobertura de Testes -->
-## Cobertura de Testes
-
-[![Cobertura de Testes](https://img.shields.io/codecov/c/github/seuusuario/seurepositorio?logo=codecov&logoColor=white)](https://codecov.io/gh/seuusuario/seurepositorio)
-
+![Jeniffer GitHub stats](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)
 
 <!-- Fim -->
 
