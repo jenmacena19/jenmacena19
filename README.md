@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- Seu nome ou username -->
 # Jeniffer Macena
 
