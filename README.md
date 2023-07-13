@@ -27,20 +27,20 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)
 
 
-<!-- Contagem de Visitantes -->
+<!-- Contagem de Visitantes 
 ## Contagem de Visitantes
 
-![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=jenmacena19.jenmacena19)
+![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=jenmacena19.jenmacena19)-->
 
-<!-- Contribuições no GitHub -->
+<!-- Contribuições no GitHub 
 ## Contribuições no GitHub
 
-[![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=omni)](https://github.com/jenmacena19)
+[![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=omni)](https://github.com/jenmacena19)-->
 
 <!-- Linguagens mais utilizadas -->
 ## Linguagens mais Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=donut-vertical)](https://github.com/jenmacena19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=donut-horizontal&theme=omni)](https://github.com/jenmacena19/github-readme-stats)
 ## Status de Build
 <!-- Status de Build 
 [![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
