@@ -24,7 +24,7 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true)
 
 
 <!-- Contagem de Visitantes 
