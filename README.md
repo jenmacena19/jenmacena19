@@ -32,7 +32,7 @@ Olá! Eu sou um desenvolvedor(a) apaixonado(a) por criar soluções inovadoras e
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=dark)
 
 <!-- Contribuição em Open Source -->
 ## Contribuição em Open Source
