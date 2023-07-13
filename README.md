@@ -24,10 +24,10 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=gruvbox)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=merko)
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=gruvbox)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=merko)
 
 <!-- Contagem de Visitantes -->
 ## Contagem de Visitantes
@@ -42,13 +42,13 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Linguagens mais utilizadas -->
 ## Linguagens mais Utilizadas
 
-[![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)](https://github.com/seuusuario)
+[![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=compact&theme=merko)](https://github.com/jenmacena19)
 ## Status de Build
 <!-- Status de Build 
 
 
 [![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=transparent)
 
 <!-- Cobertura de Testes -->
 ## Cobertura de Testes
