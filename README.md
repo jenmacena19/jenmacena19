@@ -23,12 +23,6 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 - Ferramentas de controle de versão: Git, GitHub
 - Games: Unity
 
-<!-- Estatísticas do GitHub -->
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true)
-
-
 <!-- Contagem de Visitantes 
 ## Contagem de Visitantes
 
