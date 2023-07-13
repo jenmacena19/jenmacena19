@@ -1,9 +1,5 @@
 <!-- Seu nome ou username -->
 # Jeniffer Macena
-
-<!-- Slogan ou descrição curta -->
-Pesquisadora e Desenvolderora | Front-end | Unity
-
 <!-- Ícones de contato -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeniffer-macena/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeniffermacena)
