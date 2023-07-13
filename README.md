@@ -2,7 +2,7 @@
 # Jeniffer Macena
 
 <!-- Slogan ou descrição curta -->
-Desenvolvedor(a) apaixonado(a) por código e tecnologia.
+Pesquisadora e Desenvolderora
 
 <!-- Ícones de contato -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/jeniffer-macena/)
@@ -26,20 +26,13 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=gruvbox)
 
-<!-- Contribuição em Open Source -->
-## Contribuição em Open Source
 
-- [Projeto de Código Aberto 1](https://github.com/projeto1) - Contribuição na resolução de problemas e melhoria de recursos.
-- [Projeto de Código Aberto 2](https://github.com/projeto2) - Contribuição na documentação e revisão de código.
-<!-- Estatísticas do GitHub -->
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=gruvbox)
 
 <!-- Contagem de Visitantes -->
 ## Contagem de Visitantes
 
-![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=seuusuario.seuusuario)
+![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=jenmacena19.jenmacena19)
 
 <!-- Contribuições no GitHub -->
 ## Contribuições no GitHub
@@ -50,11 +43,12 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 ## Linguagens mais Utilizadas
 
 [![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)](https://github.com/seuusuario)
-
-<!-- Status de Build -->
 ## Status de Build
+<!-- Status de Build 
 
-[![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions)
+
+[![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!-- Cobertura de Testes -->
 ## Cobertura de Testes
