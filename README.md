@@ -5,13 +5,12 @@
 Desenvolvedor(a) apaixonado(a) por código e tecnologia.
 
 <!-- Ícones de contato -->
-[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=google-chrome&logoColor=white)](https://seusite.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/jeniffer-macena/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/seuusuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seutwitter)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://www.behance.net/jeniffemacena)
+[![Twitter](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=twitter&logoColor=white)](https://www.instagram.com/jenmacena/)
 
 <!-- Breve descrição sobre você -->
-Olá! Eu sou um desenvolvedor(a) apaixonado(a) por criar soluções inovadoras e enfrentar desafios interessantes. Meu objetivo é contribuir para projetos significativos que tenham impacto no mundo. Sou especializado(a) em linguagens de programação como Python e JavaScript, e estou sempre buscando aprender e explorar novas tecnologias.
+Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enfrentar desafios de design e programação. Meu objetivo é contribuir para projetos significativos que tenham impacto no mundo. Sou graduada em Licenciatura em Computação pela Universidade do Estado do Amazonas (UEA).
 
 <!-- Habilidades técnicas -->
 ## Habilidades Técnicas
@@ -25,7 +24,7 @@ Olá! Eu sou um desenvolvedor(a) apaixonado(a) por criar soluções inovadoras e
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=gruvbox)
 
 <!-- Contribuição em Open Source -->
 ## Contribuição em Open Source
@@ -45,7 +44,7 @@ Olá! Eu sou um desenvolvedor(a) apaixonado(a) por criar soluções inovadoras e
 <!-- Contribuições no GitHub -->
 ## Contribuições no GitHub
 
-[![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=dark)](https://github.com/seuusuario)
+[![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=dark)](https://github.com/jenmacena19)
 
 <!-- Linguagens mais utilizadas -->
 ## Linguagens mais Utilizadas
@@ -55,7 +54,7 @@ Olá! Eu sou um desenvolvedor(a) apaixonado(a) por criar soluções inovadoras e
 <!-- Status de Build -->
 ## Status de Build
 
-[![Status de Build](https://img.shields.io/github/workflow/status/seuusuario/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=white)](https://github.com/seuusuario/seurepositorio/actions)
+[![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions)
 
 <!-- Cobertura de Testes -->
 ## Cobertura de Testes
