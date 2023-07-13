@@ -9,10 +9,6 @@ Pesquisadora e Desenvolderora | Front-end | Unity
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeniffermacena)
 [![Figma](https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
-
-<!-- Breve descrição sobre você -->
-Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enfrentar desafios de design e programação. Meu objetivo é contribuir para projetos significativos que tenham impacto no mundo. Sou graduada em Licenciatura em Computação pela Universidade do Estado do Amazonas (UEA).
-
 <!-- Habilidades técnicas -->
 ## Habilidades Técnicas
 
@@ -23,10 +19,10 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 - Ferramentas de controle de versão: Git, GitHub
 - Games: Unity
 
-<!-- Contagem de Visitantes 
+ Contagem de Visitantes 
 ## Contagem de Visitantes
 
-![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=jenmacena19.jenmacena19)-->
+![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=jenmacena19.jenmacena19)
 
 <!-- Contribuições no GitHub 
 ## Contribuições no GitHub
@@ -43,5 +39,11 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 [![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
 ![Jeniffer GitHub stats](https://github-readme-stats.vercel.app/api?username=jenmacena19&show_icons=true&theme=omni)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!-- Fim -->
 
