@@ -2,10 +2,10 @@
 # Jeniffer Macena
 
 <!-- Slogan ou descrição curta -->
-Pesquisadora e Desenvolderora
+Pesquisadora e Desenvolderora | Front-end | Unity
 
 <!-- Ícones de contato -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/jeniffer-macena/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeniffer-macena/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeniffermacena)
 [![Figma](https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
