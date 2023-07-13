@@ -40,7 +40,8 @@ Olá! Eu sou um desenvolvedora apaixonadoa por criar soluções inovadoras e enf
 <!-- Linguagens mais utilizadas -->
 ## Linguagens mais Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=donut-horizontal&theme=omni)](https://github.com/jenmacena19/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenmacena19&layout=compact&theme=omni&langs_count=6&card_width=445)](https://github.com/jenmacena19)
+
 ## Status de Build
 <!-- Status de Build 
 [![Status de Build](https://img.shields.io/github/workflow/status/jenmacena19/seurepositorio/Nome-da-Action?label=Build&logo=github&logoColor=gruvbox)](https://github.com/seuusuario/seurepositorio/actions) -->
