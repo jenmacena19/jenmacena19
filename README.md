@@ -8,7 +8,7 @@ Desenvolvedor(a) apaixonado(a) por código e tecnologia.
 
 <!-- Ícones de contato -->
 [![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=google-chrome&logoColor=white)](https://seusite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/jeniffer-macena/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/seuusuario)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seutwitter)
 
